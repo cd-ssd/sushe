@@ -5,7 +5,7 @@ import java.sql.*;
 public class DBHelper {	
 	private String dbUrl="jdbc:mysql://localhost:3306/sushe";
 	private String dbUser="root";
-	private String dbPassword="root";
+	private String dbPassword="123456";
 	private String jdbcName="com.mysql.jdbc.Driver";
 	
 
